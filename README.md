@@ -1,4 +1,22 @@
-### Hi there 👋
+<h1 align="center"> :sunrise: Hello! My name is Rui. :sunrise:</h1>
+<div align="center"> Always seeking to learn </div>
+<br>
+
+<div align = "center">
+              
+<img src = "https://64.media.tumblr.com/e2f55d9bc318e88768b03ff2432b40d8/1e633f5680be29cc-33/s1280x1920/febebf152b25e55962ab1b793c557631f2c31781.gifv" alt = "arcade" >
+
+<br>
+  
+`❄️ Currently a CS + Finance Double Major student at uWaterloo ❄️`
+</div>
+
+## About me:
+
+
+* ❄️ I like to develop all things code (games, websites, portolio generators, and exploring more)
+* ❄️ Currently, I have an interest in fullstack web developing
+* ❄️ In my free time I enjoy going out for walks, hanging out with friends, and gaming
 
 
 ## Languages and Tools:
