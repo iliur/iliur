@@ -8,7 +8,7 @@
 
 <br>
   
-`❄️ CS + Finance Double Major student at UWaterloo ❄️`
+`❄️ Currently a CS + Finance Double Major student at UWaterloo ❄️`
 </div>
 
 ## About me:
@@ -17,6 +17,7 @@
 * ❄️ I like to program all things code (games, websites, portolio generators, and exploring more)
 * ❄️ Currently, I have an interest in fullstack web developing
 * ❄️ In my free time I enjoy going out for walks, hanging out with friends, and gaming
+
 
 
 ## Languages and Tools:
@@ -32,4 +33,5 @@
 
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/rui-li-7911a7225/"><img src="https://img.shields.io/badge/-Rui%20Li-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rui-li-7911a7225/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto: rui.li.student@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
