@@ -8,7 +8,7 @@
 
 <br>
   
-`❄️ Currently a CS + Finance Double Major student at uWaterloo ❄️`
+`❄️ Currently a CS + Finance Double Major student at UWaterloo ❄️`
 </div>
 
 ## About me:
