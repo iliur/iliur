@@ -11,3 +11,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+
+## Connect with me:
+<a href="https://www.linkedin.com/in/rui-li-7911a7225/"><img src="https://img.shields.io/badge/-Rui%20Li-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
