@@ -12,8 +12,8 @@
 ## About me:
 
 
-* ❄️ I like to program all things (games, websites, portolio generators, and exploring more)
-* ❄️ Currently, I have an interest in fullstack web developing
+* ❄️ I like to program all things
+* ❄️ I have an interest in new technologies (e.g. machine learning and blockchain)
 * ❄️ In my free time I enjoy going out for walks, hanging out with friends, and rock climbing
 
 
