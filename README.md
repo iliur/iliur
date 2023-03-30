@@ -17,7 +17,7 @@
 * ❄️ In my free time I enjoy going out for walks, hanging out with friends, and rock climbing
 
 
-## Check out some of my projects!
+## Check out some of my published projects!
 
 
 <a href="https://play.google.com/store/apps/details?id=com.EcxLStudios.GrappleBallkour&pli=1%22%3E"> <img src="https://play-lh.googleusercontent.com/V9kVWRHoZ9Wq6bFMsvoxZ4PIx4aey1Cdeytk5jpXtJHyd6jjF49cQVQrSpgC-uL6gek" width="50"/></a> &nbsp;   <a href="https://itch.io/jam/gmtk-2021/rate/1085534"> <img src="https://img.itch.zone/aW1nLzYyMjA3NjgucG5n/315x250%23c/DBs26x.png" width="50" height="50"/></a>
