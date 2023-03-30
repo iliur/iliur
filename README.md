@@ -1,5 +1,4 @@
 <h1 align="center"> :sunrise: Hello! My name is Rui. :sunrise:</h1>
-<div align="center"> Always seeking to learn </div>
 <br> 
 
 <div align = "center">   
