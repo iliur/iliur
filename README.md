@@ -6,34 +6,6 @@
 
 <br> 
   
-`❄️ Currently a CS + Finance Double Major student at UWaterloo ❄️`
-</div>
-
-## About me:
-
-
-* ❄️ I like to program all things
-* ❄️ I have an interest in new technologies (e.g. machine learning and blockchain)
-* ❄️ In my free time I enjoy going out for walks, hanging out with friends, and rock climbing
-
-
-## Check out some of my published projects!
-
-
-<a href="https://play.google.com/store/apps/details?id=com.EcxLStudios.GrappleBallkour&pli=1%22%3E"> <img src="https://play-lh.googleusercontent.com/V9kVWRHoZ9Wq6bFMsvoxZ4PIx4aey1Cdeytk5jpXtJHyd6jjF49cQVQrSpgC-uL6gek" width="50"/></a> &nbsp;   <a href="https://itch.io/jam/gmtk-2021/rate/1085534"> <img src="https://img.itch.zone/aW1nLzYyMjA3NjgucG5n/315x250%23c/DBs26x.png" width="50" height="50"/></a>
-
-
-## Languages and Tools:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/rui-li-7911a7225/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
